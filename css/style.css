@@ -1,3 +1,75 @@
-h4 {
-    color:#FF2D55;
+body {
+   background-color: white; 
 }
+h1 {
+   font-family: 'Handlee', cursive;
+   font-style: normal;
+   font-size: 70px;
+   line-height: 70px;
+
+}
+h2 {
+   font-family: 'Holtwood One SC', serif;
+}
+h3 {
+
+}
+h4 {
+   font-family: 'Sura', serif;
+   font-size: 20px;
+
+
+}
+p {
+   font-family: 'Rancho', cursive;
+   font-size: 25px
+
+}
+header {
+   font-family: 'Sura', serif;
+}
+footer {
+   font-family: 'Sura', serif;
+}
+.navBar {
+  display: flex;
+  align-items: center;
+  border: #C80EB5 solid 4px;
+}
+li {
+   display: inline-block;
+   font: black;
+   font-size: 20px;
+   padding: 20px;
+   vertical-align: top;
+}
+.topNavbar {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  list-style-type: none;
+  margin: auto;
+  overflow: hidden;
+}
+.navPage {
+   display: inline-block;
+   text-align: center;
+
+}
+a {
+   float: center;
+   text-align: center;
+}
+.hero {
+   display: flex;
+   margin: auto;
+   background-color:  #c80eb538;
+}
+
+
+
+
+
+
+
+
